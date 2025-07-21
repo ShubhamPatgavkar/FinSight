@@ -79,8 +79,8 @@ A modern, responsive financial analytics dashboard built with React, TypeScript,
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/finsight-dashboard.git
-cd finsight-dashboard
+git clone https://github.com/ShubhamPatgavkar/FinSight.git
+cd project
 ```
 
 ### 2. Install Dependencies
@@ -90,7 +90,7 @@ npm install
 ```
 
 ### 3. Environment Configuration
-Create a `.env` file in the root directory:
+Create a `.env` file in the project directory:
 
 ```env
 # Database

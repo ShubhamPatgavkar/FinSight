@@ -24,6 +24,7 @@ export const LoginForm: React.FC = () => {
     try {
       await login(data.email, data.password);
     } catch (error) {
+      console.log(error)
       // Error is handled in the context
     }
   };
